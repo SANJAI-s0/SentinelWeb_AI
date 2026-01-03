@@ -156,7 +156,7 @@ WebNavigator_AI/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WebNavigator_AI.git
+git clone https://github.com/SANJAI-s0/WebNavigator_AI.git
 cd WebNavigator_AI
 ```
 
